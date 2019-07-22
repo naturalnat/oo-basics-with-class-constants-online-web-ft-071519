@@ -16,4 +16,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
+<<<<<<< HEAD
+=======
+    BRANDS << brand
+>>>>>>> bf9c1f48dae4c6f34458d291c655e883ff451d19
 end
